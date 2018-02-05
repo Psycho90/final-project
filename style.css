@@ -230,6 +230,7 @@ ul {
 .search-form label {
   background: #f4f4f4;
   width: 90px;
+  padding: 8px 0;
 }
 .search-form__icon {
   max-width: 23px;
